@@ -1,1 +1,0 @@
-This folder holds modules downloaded or side-loaded into the CodeProject.AI Server system.
